@@ -86,12 +86,13 @@ html, body{
 }
 #heroleft{
     min-width: 50%;
-    font-family: "kajiro";
+    font-family: 'League Gothic', sans-serif;
 }
 
 #heroleft .elem{
     position: relative;
-    height: 6vw;
+    text-transform: uppercase;
+    height: 7vw;
     overflow: hidden;
 
 }
@@ -105,7 +106,7 @@ html, body{
     position: absolute;
     top: 100%;
     left: 0;
-    line-height: 0.9;
+    line-height: 1;
     font-weight: 100;
     font-size: 8vw;
     
@@ -115,7 +116,7 @@ html, body{
     margin-top: 2vw;
     padding:0.6vw 3vw;
     font-size: 2.5vw;
-    font-family:"kajiro";
+    font-family: 'League Gothic', sans-serif;;
 
 }
 
